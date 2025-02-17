@@ -23,4 +23,4 @@
     &#8727; C++ &#8211; Minhas primeiras experiências com lógica e otimização de algoritmos.
 </p>
 
-<img src='https://www.google.com/imgres?q=imagem%20do%20js&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&docid=sfCSW9zT8CoOUM&tbnid=Swa-N3Ndk5oU9M&vet=12ahUKEwiLte627suLAxUnHLkGHaVIKOQQM3oECBwQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiLte627suLAxUnHLkGHaVIKOQQM3oECBwQAA'width="70px" height="70px" gap="10px">
+<img src='https://www.google.com/imgres?q=imagem%20do%20js&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FJavaScript&docid=sfCSW9zT8CoOUM&tbnid=Swa-N3Ndk5oU9M&vet=12ahUKEwiLte627suLAxUnHLkGHaVIKOQQM3oECBwQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwiLte627suLAxUnHLkGHaVIKOQQM3oECBwQAA' width="70px" height="70px">
