@@ -9,3 +9,5 @@
 <p>
     No que estou trabalhando: Atualmente venho aprimorando as minhas habilidades no desenvolvimento web. Entendo melhor a lógica de programação implementando alguns projetos com C++.
 </p>
+
+<hr background='#000'>
