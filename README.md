@@ -1,2 +1,2 @@
 
-<h1 aling='center'><strog>Prazer, :) me chamo Ryan.</strong></h1>
+<h1 align="center"><strog>Prazer, :) me chamo Ryan.</strong></h1>
