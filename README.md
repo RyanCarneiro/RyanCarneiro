@@ -15,9 +15,9 @@
 <p>
     Crio projetos práticos ao mesmo tempo por fora para por em prática o que aprendo. 🛠️ Tecnologias que estou estudando Muito:
     <br>
-    JavaScript – Para deixar páginas mais divertidas e interativas.
+    JavaScript &#8211; Para deixar páginas mais divertidas e interativas.
     <br>
-    HTML & CSS – Construindo páginas legais e responsivas.
+    HTML & CSS &#8211; Construindo páginas legais e responsivas.
     <br>
-    C++ – Minhas primeiras experiências com lógica e otimização de algoritmos.
+    C++ &#8211; Minhas primeiras experiências com lógica e otimização de algoritmos.
 </p>
