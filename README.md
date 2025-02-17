@@ -1,4 +1,4 @@
-<p align="center"><img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF2ZjVnbDdqcTFkMG5sMTd0c3Q4d2k3eXo1cjEwMHBiaWdiOXl3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif' width="220px" height="175px"></p>
+<p align="center"><img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF2ZjVnbDdqcTFkMG5sMTd0c3Q4d2k3eXo1cjEwMHBiaWdiOXl3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif' width="190px" height="150px"></p>
 
 <h1 align="center"><strog>Prazer, :) me chamo Ryan.</strong></h1>
 
