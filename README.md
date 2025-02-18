@@ -24,7 +24,7 @@
 </p>
 
 <div display='flex'>
-    <img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000'>
-    <img src='https://img.icons8.com/?size=100&id=23027&format=png&color=000000'>
-    <img src='https://img.icons8.com/?size=100&id=38273&format=png&color=000000'>
+    <img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' width="50px" height="50px">
+    <img src='https://img.icons8.com/?size=100&id=23027&format=png&color=000000' width="50px" height="50px">
+    <img src='https://img.icons8.com/?size=100&id=38273&format=png&color=000000' width="50px" height="50px">
 </div>    
