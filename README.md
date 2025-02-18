@@ -20,4 +20,7 @@
     <br><br>
     &#8727; HTML & CSS &#8211; Construindo páginas legais e responsivas.
     <br><br>
-    &#8727; C++ &#8211; Minhas primeiras experiências com lógica e otimização de algoritmos
+    &#8727; C++ &#8211; Minhas primeiras experiências com lógica e otimização de algoritmos.
+</p>
+
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-javascript%2F&psig=AOvVaw1kqHXfVYTkAgXq-Cby8en-&ust=1739984469347000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCRsavazYsDFQAAAAAdAAAAABAK'> 
