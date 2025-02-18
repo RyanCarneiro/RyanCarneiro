@@ -3,7 +3,7 @@
 <h1 align="center"><strog>Prazer, :) me chamo Ryan.</strong></h1>
 
 
-<p style="color: red;" >
+<p>
     Sou um desenvolvedor em busca de sempre aprender cada vez mais, e atualmente estou estudando programação de JavaScript, HTML, CSS e C++. Gosto muito de transformar ideias em código, construindo projetos funcionais com um design bacana.
 </p>
 
